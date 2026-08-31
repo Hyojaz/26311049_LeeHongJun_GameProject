@@ -7,7 +7,7 @@
 Lee Hong Jun
 
 ## 과목명
-[과목명 입력]
+[객체지향프로그래밍Ⅰ]
 
 ## 과제명
 C++ / glc2d 2D 게임 프로젝트
@@ -18,9 +18,6 @@ C++ / glc2d 2D 게임 프로젝트
 - 초기 게임 소스 코드
 - .gitignore
 - README.md
-
-## GitHub 저장소
-[GitHub 저장소 주소]
 
 ## 1주차 Git Tag
 26311049_LeeHongJun_GameProject_w01
