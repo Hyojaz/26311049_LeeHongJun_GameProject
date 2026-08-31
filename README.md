@@ -4,7 +4,7 @@
 26311049
 
 ## 이름
-Lee Hong Jun
+LeeHongJun
 
 ## 과목명
 [객체지향프로그래밍Ⅰ]
